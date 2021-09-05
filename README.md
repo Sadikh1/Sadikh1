@@ -2,9 +2,8 @@
 # Hi there 👋
 **I’m Ababacar sadikh Drame from senegal , and i do content on Development and design . I realy enjoy learning languages and framworks like PHP ,Java Script, PHYTON as i did with html,css. I also enjoy wireframing ,ui,ux, and design in general.** 
 
-## Skills & Experiences
-**HTML / CSS** 
-**ADOBE XD/PHOTOSHOP/ILLUSTRATOR**
+## Skills 
+**HTML / CSS/ ADOBE XD/PHOTOSHOP/ILLUSTRATOR**
 
 ### **I’m currently working on On my own project**
 
@@ -13,7 +12,7 @@
 
 #### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikh1&layout=compact)](https://github.com/Sadikh1/github-readme-stats)
 
-![Sadikh1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadikh1&show_icons=true)
+#### **EXPERIENCE**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikh1&langs_count=8)](https://github.com/Sadikh1/github-readme-stats)
 
 
