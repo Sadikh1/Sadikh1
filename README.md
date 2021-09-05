@@ -13,7 +13,9 @@
 
 #### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikh1&layout=compact)](https://github.com/Sadikh1/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadikh1&show_icons=true)
+![Sadikh1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadikh1&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadikh1&langs_count=8)](https://github.com/Sadikh1/github-readme-stats)
+
 
 
 
